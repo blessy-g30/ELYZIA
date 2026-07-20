@@ -1,13 +1,20 @@
 <<<<<<< HEAD
-# Elyzia - Amazon Mathiri E-Commerce Website (PHP + MySQL)
+# Elyzia - ONLINE SHOPPING Website (PHP + MySQL)
 
-## Enna irukku indha project la?
+## FEATURES
 - Customer side: Home page (products), search, category filter, product detail, cart, checkout, order tracking, login/signup
 - Admin side: Dashboard, add/edit/delete products, order status update
 - Database: MySQL (XAMPP)
 
 ---
+##TECHNOLOGY USED
+-PHP
+-MYSQL
+-HTML
+-CSS
+-JAVASCRIPT
 
+-----
 ## SETUP STEPS (XAMPP + VS Code)
 
 ### 1. XAMPP install pannunga (already illa na)
@@ -100,8 +107,8 @@ elyzia/
 ├── orders.php                 -> customer order history
 └── database.sql             -> import this into phpMyAdmin first
 ```
-
-Doubt irundha kேட்குங்க!
+##AUTHOR
+BLESSY GNANAM B
 =======
 # ELYZIA
 online shopping website
