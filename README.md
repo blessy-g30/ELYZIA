@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Elyzia - Amazon Mathiri E-Commerce Website (PHP + MySQL)
 
 ## Enna irukku indha project la?
@@ -101,3 +102,7 @@ elyzia/
 ```
 
 Doubt irundha kேட்குங்க!
+=======
+# ELYZIA
+online shopping website
+>>>>>>> 84d0567febc6bb6dd8580ce3741509276b8cdf79
